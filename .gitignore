@@ -1,0 +1,9 @@
+# Ignore API keys / environment files
+.env
+
+# Ignore Python cache & temporary files
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
